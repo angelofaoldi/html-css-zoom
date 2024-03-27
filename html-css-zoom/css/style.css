@@ -3,3 +3,36 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+body {
+    background-color: black;
+}
+
+header {
+    height: 50px;
+    background-color: black;
+}
+
+main {
+    overflow-y: auto;
+}
+
+.content {
+    padding: 0px 5px 10px 0px;
+    position: relative;
+}
+
+.account-pic {
+    width: 100%;
+}
+
+footer {
+    height: 50px;
+    background-color: black;
+}
+
+/* LAYOUT */
+
+.bg-black {
+    background-color: black;
+}
